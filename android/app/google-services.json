@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "299849460649",
+    "project_id": "takvimuygulamasi-19a1f",
+    "storage_bucket": "takvimuygulamasi-19a1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299849460649:android:dd50e34b500d9a52b5b2b8",
+        "android_client_info": {
+          "package_name": "com.example.takvim_uygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299849460649-aahmut5s0u9bkmvr9ardf243rm7nn4a4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.takvim_uygulamasi",
+            "certificate_hash": "6a9f8ad6fbffe4b7579f25292d367d035b5750be"
+          }
+        },
+        {
+          "client_id": "299849460649-vsc7g1me1656lha095fk4ccigg8gsj6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeFRI7Cd4AsDY50GnmqICtAbBh6ZV8yRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299849460649-vsc7g1me1656lha095fk4ccigg8gsj6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
